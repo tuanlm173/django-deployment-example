@@ -4,9 +4,9 @@ from django.urls import reverse
 
 
 # SuperUserInformation
-# User: Jose
-# Email: training@pieriandata.com
-# Password: testpassword
+# User: tuan
+# Email: tuanlm.cca@gmail.com
+# Password: leminhtuan95
 
 # Create your models here.
 class Post(models.Model):
